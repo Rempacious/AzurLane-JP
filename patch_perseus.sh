@@ -29,7 +29,7 @@ if [ ! -f "kr.txwy.and.blhx.apk" ]; then
 
     # eg: wget "your download link" -O "your packge name.apk" -q
     #if you want to patch .xapk, change the suffix here to wget "your download link" -O "your packge name.xapk" -q
-    wget https://www.dropbox.com/scl/fi/wxnd752v0u9b4f7ouiism/kr.txwy.and.blhx.apk?rlkey=vvrxakrvmz6z4qap5mpt3zfiu&st=q6lh7f9e&dl=1 -O kr.txwy.and.blhx.apk -q
+    wget https://download1321.mediafire.com/19qmr9uy1zbgNMibZ1hu8ZZc1uH4yjxwAx9pk2GvR3GZZepzbvywUiplWN9FosAziH4gvRO6kozBhXOcre0Qz2gq1Cl1tbOe9WOQQWzEyE1mkCmNH8RlpnvYEPG8nubklPeLc-9wV9khTNmVCQiOkEU4u_ub98Xc7eu35EB4BZ7wKQ/5e2oel2jbp3logo/kr.txwy.and.blhx.apk -O kr.txwy.and.blhx.apk -q
     echo "apk downloaded !"
     
     # if you can only download .xapk file uncomment 2 lines below. (delete the '#')
